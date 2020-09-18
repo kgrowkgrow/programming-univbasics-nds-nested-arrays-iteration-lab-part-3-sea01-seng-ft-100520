@@ -13,3 +13,4 @@ def join_nested_strings(src)
   end 
   string_collector
 end
+end
